@@ -1,11 +1,15 @@
 ---
-title: "First Post"
-date: 2023-03-30T15:58:45+07:00
-draft: false
-toc: false
-images:
-tags:
-  - untagged
+author:
+  name: "Trung Kien"
+date: 2023-03-30
+linktitle: Hello
+type:
+- post
+- posts
+title: Hello
+weight: 10
+series:
+- Hugo 101
 ---
 
-Hello 
+Hello First Post
