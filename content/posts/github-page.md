@@ -12,4 +12,5 @@ series:
 - Hugo 101
 ---
 
-## Hello First Post
+## Github Page
+Github Page is cool and free hosting in Github
