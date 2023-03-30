@@ -2,11 +2,11 @@
 author:
   name: "Trung Kien"
 date: 2023-03-30
-linktitle: Hello
+linktitle: Github Page
 type:
 - post
 - posts
-title: Hello
+title: Github Page
 weight: 10
 series:
 - Hugo 101
